@@ -531,7 +531,7 @@ The project includes:
 https://github.com/geetika1306
 
 **Project Repository:**
-`<ADD YOUR PROJECT REPOSITORY LINK HERE>`
+https://github.com/geetika1306/Seasonal_Agriculture_Project/settings
 
 ---
 
